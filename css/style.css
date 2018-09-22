@@ -284,7 +284,7 @@ button:focus,
     right: 0;
     width: 100%;
     margin: 0 auto;
-    padding: 10%;
+    padding: 18% 10%;
 }
 
 .header .content h1 {
@@ -294,7 +294,7 @@ button:focus,
     margin: 0;
 }
 
-.header .content p {
+.header .content p, .header .content p a {
     font-size: 18px;
     color: #ffffff;
 }
@@ -413,6 +413,12 @@ button:focus,
     position: relative;
     display: block;
     margin-bottom: 30px;
+}
+
+.portfolio-item .portfolio-thumb {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .portfolio-item .portfolio-thumb img {
