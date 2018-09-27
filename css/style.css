@@ -8,8 +8,9 @@
 # Background Color #ffffff
 # -------------------------------------------------------------------*/
 
+
 body {
-    font-family: 'Hind', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     line-height: 1.8em;
     color: #3d3d50;
@@ -41,19 +42,19 @@ h2 {
 h3 {
     font-size: 16px;
     line-height: 1.8em;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 h4 {
     font-size: 15px;
     line-height: 1.8em;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 h5 {
     font-size: 15px;
     line-height: 1.5em;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 h6 {
@@ -104,7 +105,7 @@ ul {
     padding: 14px 30px 11px;
     margin-bottom: 0;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 600;
     border-radius: 0;
     border: 0;
     text-transform: uppercase;
